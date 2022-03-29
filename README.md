@@ -4,10 +4,10 @@
 ## Main idea of the project and technologies used:
   Industry: Health
 
-  Project Title: <br> Health-Web: A Health Assistance Chatbot
+  Project Title: <br> &nbsp;&nbsp;&nbsp;&nbsp; Health-Web: A Health Assistance Chatbot
 
-  Problem Statement/Opportunity:
-    People who need immediate health-related information and people having minor health symptoms often don't want to consult a doctor as it costs time and money but they     need someone to talk and assist them. A Health Assistance Chatbot can help with this problem.
+  Problem Statement/Opportunity: <br> &nbsp;&nbsp;&nbsp;&nbsp;
+    People who need immediate health-related information and people having minor health symptoms often don't want to consult a doctor as it costs time and money but they need someone to talk and assist them. A Health Assistance Chatbot can help with this problem.
 
    Project Description:
 
@@ -19,7 +19,7 @@
 ## Technical Details of the project:
   The project is a chatbot deployed on a website. 
   An Azure Web App Bot is used, which is powered by an Azure QnA maker, and is deployed on a website using an Azure Static Web App. <br>
-  The QnA maker was trained with the following databases: <br>	COVID: <br> https://www.cdc.gov/coronavirus/2019-ncov/faq.html <br> Depression: <br>              https://www.bbrfoundation.org/faq/frequently-asked-questions-about-depression
+  The QnA maker was trained with the following databases: <br>	&nbsp;&nbsp;&nbsp;&nbsp; COVID: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.cdc.gov/coronavirus/2019-ncov/faq.html <br> &nbsp;&nbsp;&nbsp;&nbsp; Depression: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.bbrfoundation.org/faq/frequently-asked-questions-about-depression
   <br> The file 'index.html' contains the HTML code for the website. The folder 'index_files' contains the files which are used by the website to display the content.
 
 
