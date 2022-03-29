@@ -2,7 +2,7 @@
 # A health-assistance chatbot
 # Developed using Azure Technologies
 
-## Main idea of the project and technologies used
+## Main idea of the project and technologies used:
 Industry: Health
 
 Project Title: Health-Web: A Health Assistance Chatbot
