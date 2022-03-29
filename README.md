@@ -22,5 +22,5 @@
   The QnA maker was trained with the follwing databases:
   COVID:
   https://www.cdc.gov/coronavirus/2019-ncov/faq.html
-	Depression:
+  Depression:
   https://www.bbrfoundation.org/faq/frequently-asked-questions-about-depression
