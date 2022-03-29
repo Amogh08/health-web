@@ -17,7 +17,12 @@
     Azure Bot Service, Web App Bot, QnA Maker, Static Web Apps
 
 ## Technical Details of the project:
-  The project is a chatbot deployed on a website. 
+
+<p style="margin-left:10%; margin-right:10%;">
+The project is a chatbot deployed on a website. 
   An Azure Web App Bot is used, which is powered by an Azure QnA maker, and is deployed using an Azure Static Web App. <br>
   The QnA maker was trained with the follwing databases: <br>	COVID: <br> https://www.cdc.gov/coronavirus/2019-ncov/faq.html <br> Depression: <br>  https://www.bbrfoundation.org/faq/frequently-asked-questions-about-depression
   <br> The file 'index.html' contains the HTML code for the website. The folder 'index_files' contains the files which are used by the website to display the content.
+</p>
+
+  
