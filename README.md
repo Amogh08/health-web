@@ -1,6 +1,8 @@
 # Health-Web
 # A health-assistance chatbot developed using Azure Technologies
-Link for the project: https://yellow-sand-001c54610.1.azurestaticapps.net/ <br> <br>
+Link for the project: https://yellow-sand-001c54610.1.azurestaticapps.net/ <br> 
+Video Link: https://youtu.be/4nRiFWXk1jI
+<br> <br>
 <img src = https://user-images.githubusercontent.com/67178554/160622438-5a60c811-d520-4ec2-b544-e35253d9e4b2.png style="width:60%;"/> <br> <br>
 <img src = https://user-images.githubusercontent.com/67178554/160624920-c7e562f6-0db4-4d4c-8744-7391e48fcccc.png style="width:60%;"/> <br> <br>
 <img src = https://user-images.githubusercontent.com/67178554/160625232-4685ff40-3218-4a5b-a6a3-e634cdd0050e.png style="width:60%;"/> <br> <br>
