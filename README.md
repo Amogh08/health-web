@@ -1,5 +1,8 @@
 # Health-Web
 # A health-assistance chatbot Developed using Azure Technologies
+Link for the project: https://yellow-sand-001c54610.1.azurestaticapps.net/
+![image](https://user-images.githubusercontent.com/67178554/160622438-5a60c811-d520-4ec2-b544-e35253d9e4b2.png =250x250)
+
 
 ## Main idea of the project and technologies used:
   Industry: Health
@@ -21,6 +24,4 @@
   An Azure Web App Bot is used, which is powered by an Azure QnA maker, and is deployed on a website using an Azure Static Web App. <br>
   The QnA maker was trained with the following databases: <br>	&nbsp;&nbsp;&nbsp;&nbsp; COVID: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.cdc.gov/coronavirus/2019-ncov/faq.html <br> &nbsp;&nbsp;&nbsp;&nbsp; Depression: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.bbrfoundation.org/faq/frequently-asked-questions-about-depression
   <br> The file 'index.html' contains the HTML code for the website. The folder 'index_files' contains the files which are used by the website to display the content.
-
-
-  
+  <br> Using Github Actions, the repository is connected to an Azure Static Web App which is used to host our website. 
