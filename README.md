@@ -18,5 +18,5 @@
 
 ## Technical Details of the project:
   The project is a chatbot deployed on a website. 
-  An Azure Web App Bot is used, which is powered by an Azure QnA maker, and is deployed using an Azure Static Web App.
+  An Azure Web App Bot is used, which is powered by an Azure QnA maker, and is deployed using an Azure Static Web App. <br>
   The QnA maker was trained with the follwing databases: <br> COVID: <br> https://www.cdc.gov/coronavirus/2019-ncov/faq.html <br> Depression: <br> https://www.bbrfoundation.org/faq/frequently-asked-questions-about-depression
