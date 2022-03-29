@@ -18,7 +18,7 @@
 
 ## Technical Details of the project:
 
-<p style="margin-left:10%; margin-right:10%;">
+<p style="margin-left:200px;">
 The project is a chatbot deployed on a website. 
   An Azure Web App Bot is used, which is powered by an Azure QnA maker, and is deployed using an Azure Static Web App. <br>
   The QnA maker was trained with the follwing databases: <br>	COVID: <br> https://www.cdc.gov/coronavirus/2019-ncov/faq.html <br> Depression: <br>  https://www.bbrfoundation.org/faq/frequently-asked-questions-about-depression
