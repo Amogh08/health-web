@@ -4,7 +4,7 @@
 ## Main idea of the project and technologies used:
   Industry: Health
 
-  Project Title: Health-Web: A Health Assistance Chatbot
+  Project Title: <br> Health-Web: A Health Assistance Chatbot
 
   Problem Statement/Opportunity:
     People who need immediate health-related information and people having minor health symptoms often don't want to consult a doctor as it costs time and money but they     need someone to talk and assist them. A Health Assistance Chatbot can help with this problem.
